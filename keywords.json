@@ -1,0 +1,20 @@
+{
+  "c#": ["c#", "C#"],
+  "c": ["c언어", "c"],
+  "c++": ["c++", "씨플플"],
+  "ruby": ["ruby", "루비"],
+  "java": ["java", "자바"],
+  "javascript": ["javascript", "자바스크립트", "jQuery", "제이쿼리", "nodejs", "node.js", "jsp",
+    "spring"],
+  "typescript": ["typescript", "타입스크리트"],
+  "web": ["웹", "html", "css", "scss", "sass", "stylesheet", "스타일시트", "bootstrap", "부트스트랩", "material"],
+  "go": ["go", "고"],
+  "kotlin": ["kotlin" ,"코틀린"],
+  "r": ["r", "알"],
+  "swift": ["swift", "스위프트"],
+  "sql": ["sql", "mysql", "mongodb", "nosql"],
+  "php": ["php"],
+  "objectiv-c": ["objectiv-c"],
+  "rust": ["rust", "러스트"],
+  "scala": ["scala", "스칼라"]
+}
