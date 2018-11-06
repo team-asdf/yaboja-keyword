@@ -27,7 +27,9 @@
   "swift": ["swift", "스위프트"],
   "database": ["sql", "mysql", "mongodb", "nosql"],
   "php": ["php"],
-  "objectiv-c": ["objectiv-c"],
+  "objective-c": ["objective-c"],
   "rust": ["rust", "러스트"],
   "scala": ["scala", "스칼라"],
+  "python" : ["python", "python3", "파이썬", "인터프리터", "anaconda", "아나콘다", "pip", "numpy", "scipy", "pandas",
+              "jupyter", "scikit", "matplotlib", "django", "장고", "pyqt", "tensorflow", "keras", "flask", "zulip"]
 }
