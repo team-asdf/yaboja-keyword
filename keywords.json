@@ -20,7 +20,7 @@
               "jupyter", "scikit", "matplotlib", "django", "장고", "pyqt", "tensorflow", "keras", "flask", "zulip"],
   "perl" : ["perl", "펄"],
   "react" : ["react", "리액트", "reactjs", "spa"],
-  "assembly" : ["assembly", "어셈블리"],
+  "assembly" : ["assembly", "어셈블리", "risc", "cisc", "어셈블리어", "어셈블러"],
   "react" : ["react", "리액트", "reactjs"],
   
   
