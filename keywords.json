@@ -6,7 +6,7 @@
   "java": ["java", "자바", "jvm", "jdk", "객체지향"],
   "javascript": ["javascript", "자바스크립트", "jquery", "제이쿼리", "nodejs", "node.js", "jsp", "spring", "vue", "angular", "앵귤러", "angularjs",
                  "webpack", "ember"],
-  "typescript": ["typescript", "타입스크리트"],
+  "typescript": ["typescript", "타입스크립트"],
   "go": ["go", "고", "golang"],
   "kotlin": ["kotlin" ,"코틀린"],
   "r": ["r", "알"],
@@ -21,7 +21,6 @@
   "perl" : ["perl", "펄"],
   "react" : ["react", "리액트", "reactjs", "spa"],
   "assembly" : ["assembly", "어셈블리", "risc", "cisc", "어셈블리어", "어셈블러"],
-  "react" : ["react", "리액트", "reactjs"],
   
   
   
