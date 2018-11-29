@@ -28,7 +28,7 @@
   
   "machinelearning" : ["머신러닝", "ml", "machine", "deep", "reinforcement", "reinforce", "learning", "딥러닝", "기계학습", "강화학습", 
              "supervised", "unsupervised", "지도학습", "비지도학습", "학습", "알파고", "gpu", "caffe", "tensorflow", "torch", "theano", "keras", "training",
-             "모델", "classification", "분류", "자연어", "빅데이터", "mnist", "손글씨", "비용함수", "gradient", "batch",
+             "모델", "classification", "분류", "자연어", "빅데이터", "mnist", "손글씨", "비용함수", "gradient",
              "선형", "회귀", "선형회귀", "linear", "regression", "신경망", "neural", "sigmoid", "relu", "인공지능", "ai", "cuda"],
   "blockchain" : ["블록체인", "가상화페", "비트코인", "bitcoin", "분산", "분산저장", "p2p", "채굴", "이더리움", "ethereum", "탈중앙"],
   "docker" : ["도커", "docker"],
